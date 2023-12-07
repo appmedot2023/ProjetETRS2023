@@ -1,0 +1,550 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1701941815342121, "dur":72, "ph":"X", "name": "EmitBuildStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701941815336062, "dur":8997, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701941815345159, "dur":162, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701941815345357, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1701941815345414, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1701941815345634, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1701941815345693, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1701941815345754, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1701941815345860, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1701941815345919, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1701941815345979, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1701941815346041, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/LinuxPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1701941815346329, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815346421, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815346485, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815346569, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815346656, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815346720, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815346778, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815346842, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815346907, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815346968, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815347031, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815347095, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815347154, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815347213, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815347276, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815347337, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815347401, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815347515, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815347598, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815347658, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815347727, "dur":111, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815347899, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815347960, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815348024, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815348085, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815348253, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815348316, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815348386, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815348450, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815348509, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815348569, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815348626, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815348689, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815348771, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815348834, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815348902, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815348973, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815349039, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815349206, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815349291, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815349367, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815349443, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815349517, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815349587, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815349643, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815349708, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815349770, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815349831, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815349926, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815349986, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815350055, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815350129, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815350190, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815350253, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815350312, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815350375, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815350486, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815350550, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815350609, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815350668, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815350732, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815350795, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815350861, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815351072, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815351138, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815351209, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815351282, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815351353, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815351579, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815352137, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815352200, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815352271, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815352343, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815352721, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815352934, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701941815352991, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AIModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815353106, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AndroidJNIModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815353165, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AnimationModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815353258, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815353321, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AudioModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815353398, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ClothModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815353469, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ClusterInputModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815353535, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ClusterRendererModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815353592, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ContentLoadModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815353861, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.GIModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815353921, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.GameCenterModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815354033, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.HotReloadModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815354092, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.IMGUIModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815354205, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.InputLegacyModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815354288, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.InputModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815354516, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.PerformanceReportingModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815354829, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ScreenCaptureModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815354895, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SharedInternalsModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815354955, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SpriteMaskModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815355014, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SpriteShapeModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815355186, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SubsystemsModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815355323, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TerrainModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815355391, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TerrainPhysicsModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815355862, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityAnalyticsModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815355923, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityConnectModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815355981, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityCurlModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815356042, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityTestProtocolModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815356104, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815356167, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestAudioModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815356226, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815356328, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestTextureModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815356392, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestWWWModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815356454, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VFXModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815356511, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VRModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815356598, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VehiclesModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815356657, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VideoModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815356719, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VirtualTexturingModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815356780, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.WindModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815356993, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.IK.Runtime.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815357051, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Burst.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815357111, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815357172, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.Animation.Runtime.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815357237, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.Tilemap.Extras.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815357301, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815357362, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.InternalAPIEngineBridge.001.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815357442, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.Common.Runtime.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815357504, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815357827, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815357902, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1701941815357960, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Plugins/lib_burst_generated.so" }}
+,{ "pid":12345, "tid":0, "ts":1701941815358035, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/LinuxPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":0, "ts":1701941815358098, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/UnityPlayer.so" }}
+,{ "pid":12345, "tid":0, "ts":1701941815358160, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test.x86_64" }}
+,{ "pid":12345, "tid":0, "ts":1701941815358222, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1701941815358513, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1701941815359253, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1701941815359312, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so" }}
+,{ "pid":12345, "tid":0, "ts":1701941815359387, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/x86_64/libmono-native.so" }}
+,{ "pid":12345, "tid":0, "ts":1701941815359455, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so" }}
+,{ "pid":12345, "tid":0, "ts":1701941815359548, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/UnityPlayer_s.debug" }}
+,{ "pid":12345, "tid":0, "ts":1701941815345351, "dur":14458, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701941815359816, "dur":562246, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701941815922140, "dur":50, "ph":"X", "name": "EmitBuildFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701941815922191, "dur":4603, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1701941815345265, "dur":14564, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701941815359833, "dur":1211, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701941815362607, "dur":1291, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_16d3.info" }}
+,{ "pid":12345, "tid":1, "ts":1701941815363905, "dur":194, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library/PlayerDataCache/Linux64/Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1701941815364170, "dur":504, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701941815364675, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701941815364732, "dur":253, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701941815365003, "dur":181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701941815365184, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701941815365278, "dur":247, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701941815365525, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701941815365641, "dur":712, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701941815366354, "dur":300, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701941815363904, "dur":2858, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/LinuxPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1701941815368296, "dur":64, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701941815368667, "dur":201793, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/LinuxPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1701941815571161, "dur":203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1701941815571386, "dur":20077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1701941815654983, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701941815591499, "dur":63597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1701941815655119, "dur":512, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1701941815656031, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701941815655703, "dur":441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1701941815656488, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701941815656209, "dur":384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1701941815657205, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701941815656680, "dur":631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701941815657370, "dur":530, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701941815659437, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701941815657911, "dur":1646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701941815659585, "dur":262099, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815345271, "dur":14568, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815359845, "dur":151, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815359997, "dur":145, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815360143, "dur":124, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815360268, "dur":89, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815360357, "dur":690, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815361072, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/mono/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815361238, "dur":322, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/mono/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815361606, "dur":95, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815361743, "dur":1176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815362920, "dur":1674, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815364595, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815364727, "dur":362, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815365092, "dur":241, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815365335, "dur":357, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815365694, "dur":736, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815366431, "dur":373, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815361050, "dur":5785, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/LinuxPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":2, "ts":1701941815366992, "dur":5978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so" }}
+,{ "pid":12345, "tid":2, "ts":1701941815373062, "dur":564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1701941815373730, "dur":166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1701941815373940, "dur":123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1701941815374101, "dur":206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1701941815374345, "dur":278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1701941815374838, "dur":208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1701941815375087, "dur":139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TerrainPhysicsModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815375265, "dur":193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1701941815375466, "dur":95, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815375466, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.SpriteShape.Runtime.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815375586, "dur":330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.SpriteShape.Runtime.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815375951, "dur":123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1701941815376109, "dur":189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1701941815376304, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1701941815376450, "dur":262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1701941815376746, "dur":110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/config" }}
+,{ "pid":12345, "tid":2, "ts":1701941815382046, "dur":323, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815376940, "dur":5454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1701941815382439, "dur":81962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/UnityPlayer.so" }}
+,{ "pid":12345, "tid":2, "ts":1701941815464441, "dur":228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.Physics2DModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815464702, "dur":181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TerrainModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815464917, "dur":136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.LocalizationModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815465082, "dur":676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.JSONSerializeModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815465795, "dur":167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SubstanceModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815465997, "dur":154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.InputLegacyModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815466184, "dur":139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ImageConversionModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815466353, "dur":382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.IMGUIModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815466769, "dur":152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.HotReloadModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815466955, "dur":139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.GridModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815467655, "dur":209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.GameCenterModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815467901, "dur":141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.GIModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815468074, "dur":144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.DirectorModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815468267, "dur":139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.DSPGraphModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815468441, "dur":138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestAudioModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815468612, "dur":141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815469376, "dur":199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ContentLoadModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815469612, "dur":145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ClusterRendererModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815469791, "dur":161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityConnectModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815469982, "dur":148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ClothModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815470162, "dur":179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AudioModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815470374, "dur":164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815471132, "dur":300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AnimationModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815471478, "dur":242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AndroidJNIModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815471753, "dur":158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AccessibilityModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815471947, "dur":158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AIModule.pdb" }}
+,{ "pid":12345, "tid":2, "ts":1701941815482761, "dur":358, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815472132, "dur":11138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815483297, "dur":99, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815483402, "dur":9690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1701941815493122, "dur":4206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815497362, "dur":184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815497575, "dur":139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815497767, "dur":107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815497896, "dur":177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815498095, "dur":172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815498314, "dur":1908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815501015, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815500254, "dur":838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815501130, "dur":675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815501837, "dur":640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815507599, "dur":222, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815502568, "dur":5269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Plugins/lib_burst_generated.so" }}
+,{ "pid":12345, "tid":2, "ts":1701941815507861, "dur":205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815508091, "dur":817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815508935, "dur":153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815509113, "dur":245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815509377, "dur":596, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815509978, "dur":223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815510230, "dur":152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815510411, "dur":254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815510690, "dur":676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815511399, "dur":143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815511562, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815511635, "dur":596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815512252, "dur":226, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815512483, "dur":150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815512660, "dur":5702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815518419, "dur":885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815519389, "dur":895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815520311, "dur":271, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815520745, "dur":133, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815520586, "dur":304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815521550, "dur":615, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815520918, "dur":1647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815522593, "dur":529, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815523127, "dur":145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815523303, "dur":140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815523473, "dur":215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815523714, "dur":181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815523926, "dur":148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815527135, "dur":156, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815524105, "dur":3203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815527344, "dur":450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815527829, "dur":451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815528314, "dur":1190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701941815529539, "dur":42020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1701941815701155, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701941815571587, "dur":129678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1701941815701287, "dur":220598, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815345342, "dur":14696, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815360041, "dur":115, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815360156, "dur":126, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815360288, "dur":766, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815361061, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815361056, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815361289, "dur":112, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815361539, "dur":1247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815362945, "dur":9753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so" }}
+,{ "pid":12345, "tid":3, "ts":1701941815372856, "dur":765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1701941815373669, "dur":931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1701941815374610, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815374609, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815375330, "dur":182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.State.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815375543, "dur":149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SubsystemsModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815375776, "dur":663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1701941815377366, "dur":137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1701941815378194, "dur":4549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test.x86_64" }}
+,{ "pid":12345, "tid":3, "ts":1701941815382861, "dur":125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1701941815383014, "dur":111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1701941815383132, "dur":332, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815383132, "dur":333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Mathematics.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815383485, "dur":946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Mathematics.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815384493, "dur":124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.PixelPerfect.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815384711, "dur":1340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1701941815386064, "dur":168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.Collections.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815386063, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Collections.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815386255, "dur":769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Collections.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815387031, "dur":279, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815387031, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815387695, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815387336, "dur":431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Timeline.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815387776, "dur":202, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815387775, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815387995, "dur":421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UI.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815388423, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815388422, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.Common.Runtime.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815388495, "dur":175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.Common.Runtime.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815388732, "dur":116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.InternalAPIEngineBridge.001.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815388852, "dur":156, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815388851, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815389027, "dur":506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.Flow.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815390090, "dur":166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.Tilemap.Extras.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815390261, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815390260, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.Animation.Runtime.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815390346, "dur":191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.Animation.Runtime.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815390544, "dur":289, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815390543, "dur":292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815390858, "dur":951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.Core.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815399435, "dur":523, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815391844, "dur":8144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815400004, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_s.debug" }}
+,{ "pid":12345, "tid":3, "ts":1701941815400187, "dur":4355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_s.debug" }}
+,{ "pid":12345, "tid":3, "ts":1701941815404554, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815404553, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815404656, "dur":231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Assembly-CSharp.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815404922, "dur":1146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815406129, "dur":9727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/x86_64/libmono-native.so" }}
+,{ "pid":12345, "tid":3, "ts":1701941815415922, "dur":182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.WindModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815416142, "dur":146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VirtualTexturingModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815416324, "dur":159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VideoModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815416526, "dur":561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VehiclesModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815417131, "dur":165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VRModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815417359, "dur":154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VFXModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815417548, "dur":188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestWWWModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815417772, "dur":146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestTextureModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815417947, "dur":171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815418125, "dur":239, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.Burst.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815418124, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Burst.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815418392, "dur":663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Burst.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815419103, "dur":201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Resources/UnityPlayer.png" }}
+,{ "pid":12345, "tid":3, "ts":1701941815419311, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815419310, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.IK.Runtime.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815420437, "dur":1311, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815419416, "dur":2360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.IK.Runtime.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815421818, "dur":415, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815422381, "dur":1107, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815422240, "dur":1272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityTestProtocolModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815424036, "dur":1057, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815423559, "dur":1559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.XRModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815425163, "dur":530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815425730, "dur":552, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815426441, "dur":1378, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815426287, "dur":1561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityAnalyticsModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815427887, "dur":448, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815429156, "dur":1551, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815428342, "dur":2393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815430780, "dur":479, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815431438, "dur":886, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815431265, "dur":1430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UmbraModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815432735, "dur":456, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815433358, "dur":771, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815433199, "dur":954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UIModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815436327, "dur":1443, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815434219, "dur":3592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UIElementsModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815437896, "dur":448, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815438520, "dur":1807, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815438353, "dur":2004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TilemapModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815440399, "dur":466, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815441031, "dur":1386, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815440871, "dur":1571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TextRenderingModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815442482, "dur":481, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815443396, "dur":1374, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815442975, "dur":1822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TextCoreTextEngineModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815444846, "dur":475, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815445512, "dur":1470, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815445327, "dur":1774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TextCoreFontEngineModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815447135, "dur":472, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815447771, "dur":1347, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815447614, "dur":1531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.PerformanceReportingModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815449192, "dur":416, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815449831, "dur":1357, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815449615, "dur":1600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ParticleSystemModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815451250, "dur":476, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815451876, "dur":1322, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815451733, "dur":1536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TLSModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815453317, "dur":428, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815453923, "dur":1368, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815453752, "dur":1565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.InputModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815455359, "dur":455, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815456084, "dur":1405, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815455822, "dur":1718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1701941815457586, "dur":452, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815458190, "dur":1319, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815458044, "dur":1611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.StreamingModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815459688, "dur":505, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815460387, "dur":1307, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815460202, "dur":1516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SpriteShapeModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815461756, "dur":453, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815462367, "dur":213, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815462215, "dur":384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SpriteMaskModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815462640, "dur":212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SharedInternalsModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815462889, "dur":138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ScreenCaptureModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815463063, "dur":140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815463236, "dur":885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.PropertiesModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815464177, "dur":167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ProfilerModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815474941, "dur":1892, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815464407, "dur":12457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.PhysicsModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815476909, "dur":945, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815477863, "dur":7848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815485757, "dur":509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.CrashReportingModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815486296, "dur":1353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.CoreModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815487689, "dur":659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815488787, "dur":104, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815488387, "dur":513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ClusterInputModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815489044, "dur":112, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815488925, "dur":238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityCurlModule.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815490189, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815489202, "dur":1088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815490420, "dur":131, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815490556, "dur":455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815491629, "dur":99, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815491041, "dur":700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815491761, "dur":362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815492150, "dur":161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815492338, "dur":197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815492560, "dur":1070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815493657, "dur":192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815493880, "dur":2081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815495996, "dur":166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815496170, "dur":172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/home/raven/Bureau/MEDOT/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815496169, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/raven/Bureau/build_test/build_test_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815496357, "dur":712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.TextMeshPro.pdb" }}
+,{ "pid":12345, "tid":3, "ts":1701941815497095, "dur":668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815497794, "dur":451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815498270, "dur":1070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815499369, "dur":154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815499577, "dur":333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815499944, "dur":1222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815501193, "dur":4295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1701941815505517, "dur":134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815505673, "dur":149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815505839, "dur":220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815506074, "dur":1304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815507599, "dur":191, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815507797, "dur":690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815508509, "dur":313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815509066, "dur":393, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815508853, "dur":623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815509504, "dur":1037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815510574, "dur":160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815510852, "dur":234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815511117, "dur":149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815511298, "dur":154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815511476, "dur":111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815512229, "dur":83, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815512317, "dur":214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815512555, "dur":137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815512714, "dur":111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815512852, "dur":162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815513371, "dur":641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815514040, "dur":209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815514272, "dur":102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815514405, "dur":266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815514694, "dur":110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815514825, "dur":120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815515242, "dur":190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815515602, "dur":163, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815515466, "dur":345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815515854, "dur":108, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815516155, "dur":117, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815515966, "dur":324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815516446, "dur":100, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815516551, "dur":503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815517201, "dur":548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815517791, "dur":134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815518226, "dur":176, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815517951, "dur":712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815518699, "dur":206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815518937, "dur":391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815519377, "dur":178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815519583, "dur":706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815520310, "dur":216, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815520531, "dur":257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815521057, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815520848, "dur":287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815521507, "dur":263, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815521175, "dur":666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815521875, "dur":615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815522518, "dur":86, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815522609, "dur":230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815522874, "dur":170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815523069, "dur":3757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815527132, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815526868, "dur":334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815527230, "dur":168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815527598, "dur":178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815527805, "dur":271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815528110, "dur":206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815528346, "dur":177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815528960, "dur":260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701941815529253, "dur":156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1701941815921314, "dur":83, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701941815529435, "dur":392016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1701941815345333, "dur":14526, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701941815359864, "dur":133, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701941815359998, "dur":379, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701941815360377, "dur":674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701941815361055, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701941815361188, "dur":115, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/LinuxPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1701941815606405, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701941815361767, "dur":245079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/UnityPlayer_s.debug" }}
+,{ "pid":12345, "tid":4, "ts":1701941815657352, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701941815606965, "dur":50534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1701941815664951, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701941815657605, "dur":9013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/raven/Bureau/build_test/build_test_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701941815666657, "dur":254940, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701941815937432, "dur":4427, "ph":"X", "name": "ProfilerWriteOutput" }
+,
